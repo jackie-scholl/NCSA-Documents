@@ -1,136 +1,10 @@
-### Title I
+# 3-1
 
-###### SYSTEM OF THE GREAT BOOK
+## 3-2
 
-##### Chapter 100 Form of the Great Book
+### Title III
 
-I.100.1 &nbsp; The following shall be the statutes of the New College Student Alliance (NCSA), also known as the Great Book, observed by the Towne Meeting in enacting statutes.
-
-I.100.2 There shall be ten (10) titles, each dealing with related and similar topics, and each composed of a numerically designated chapter as follows:
-
-**Title I (100­-199) System of the Great Book**
-
-**Title II (200­-299) Membership, Powers, and Purposes of the New College Student Alliance**
-
-**Title III (300­-399) The Legislative Branch**
-
-**Title IV (400-­499) The Executive Branch**
-
-**Title V (500­-599) The Judicial Branch**
-
-**Title VI (600-­699) Financial Codes**
-
-**Title VII (700­-799) Election Codes**
-
-**Title VIII (800­-899) Eligibility Requirements**
-
-**Title IX (900­-999) Officer Accountability and Removal Vacancies, Proxies, and Leaves of Absence**
-
-**Title X (1000­-1099) Vacancies, Proxies, and Leaves of Absence**
-
-I.100.3 Each chapter may be subdivided by means of a decimal arrangement. For instance, chapter 199 may be divided into sections 199.1, 199.2, 199.3, etc., and each section may in turn be subdivided by means of further decimal places so that as many subsections are obtained as necessary.
-
-I.100.4 Each statute shall have a printed history at the end of it, chronologically listing the bill numbers and dates of any amendments.
-
-##### Chapter 101 Compliance with the Great Book
-I.101.1 NCSA officers and all students serving the NCSA in any way must comply with these statutes. Willful and deliberate disregard of these statutes or the Constitution shall subject the official(s) to removal from office by proper procedure.
-
-##### Chapter 102 Changes to the Great Book and Constitution
-
-I.102.1 Within three (3) business days or by the second (2​) day of regularly scheduled classes, whichever comes later, following the approval by the Towne Meeting of a duly­passed bill changing any provision(s) of this Great Book, the Executive Secretary shall enter the changes into the official electronic copy of the Great Book. Such changes shall be entered only as prescribed by the corresponding ￼legislation.
-
-I.102.2 Within three (3) business days or by the second (2​) day of regularly scheduled classes, whichever comes later, following the approval of a duly passed constitutional amendment by the college Board of Trustees or its delegate(s), the Executive Secretary, in the presence of at least one (1) Justice of the Student Court, shall enter the changes into the official electronic copy of the Constitution.
-
-##### Chapter 103 Time of Effect of Legislation
-
-I.103.1 Legislation, not changing any provision of this Great Book, shall take effect immediately upon passage by the Towne Meeting, unless otherwise stated in the legislation.
-
-I.103.2 Legislation changing a provision of this Great Book shall take effect immediately upon approval by the college Board of Trustees or its delegate(s), unless otherwise stated in the legislation.
-
-##### Chapter 104 Board of Trustees Approval
-
-I.104.1 All changes to this document shall be submitted to the college Board of Trustees or its delegate(s) for approval (pursuant to BOG 6.014).
-
-I.104.2 If the Board of Trustees or its delegate(s) does not approve a change, the college administration shall send reasoning for the rejection to the NCSA President(s) within ten (10) business days (pursuant to NCF Regulations Manual, Chapter 7).###### Should be chapter 6
-
-### TITLE II
-
-##### ￼MEMBERSHIP, PURPOSE, AND POWERS OF THE NEW COLLEGE STUDENT ALLIANCE
-
-##### Chapter 200 Rights and Powers
-
-II.200.1 The enumeration of specific rights and powers of the Students within the NCSA Constitution and this Great Book shall in no way be construed so as to limit the rights and powers granted by the college Board of Trustees or the laws of the State of Florida or the United States.
-
-##### Chapter 201 Parliamentary Authority
-
-II.201.1 All deliberative bodies of the NCSA are free to adopt, amend, or suspend their own rules of procedure, by majority vote, except where otherwise specified in the NCSA Constitution or this Great Book.
-
-II.201.2 In the absence of formally adopted procedures, all deliberative bodies, except the Towne Meeting, shall follow the procedures set forth in the most recent edition of T​he Standard Code of Parliamentary Procedure.
-
-II.201.3 The Towne Meeting shall adopt its own Rules and Procedures, by majority vote.
-
-##### Chapter 202 Public Records
-
-II.202.1 All records of the NCSA are considered public. Any individual may request to inspect or receive a certified copy of any NCSA record from the record's custodian within five (5) business days. The Student Court may grant a record's custodian up to ten (10) extra business days to provide access for especially large requests.
-
-II.202.2 Any NCSA record published to the Student Body (e.g. minutes, motions, etc.) shall be copied to the Executive Secretary for placement in the NCSA Archives.
-
-II.202.3 All NCSA officials shall be required to use their New College of Florida (@ncf.edu) email account for any emails involving the conduct of NCSA business.
-
-II.202.4 The NCSA shall make known that, under Florida Law, emails may be considered public records, and that individuals wishing to contact the NCSA, who do not want their email addresses released in response to a public records request should contact the office in writing, by phone, or in person.
-
-##### Chapter 203 Open Meetings
-
-II.203.1 All NCSA meetings – that is, meetings of bodies with shared decision­making authority, the Executive Cabinet, and the Councils of the NCSA at which official acts are to be taken – shall be open to the public. Unless otherwise stated in the Great Book, all NCSA officials shall be entitled to attend all NCSA meetings.
-
-II.203.2 Minimum notice for any NCSA meeting shall consist of a notice containing the time, place, and agenda for the meeting sent to the [STUDENTS] email list no later than twelve (12) hours prior to the meeting.
-
-II.203.3 Minutes shall be taken at all NCSA meetings and published to the ￼[STUDENTS] list within seventy­-two (72) hours.
-
-II.203.4 Attendees of NCSA meetings may be requested to leave at any time, provided that they are informed of their rights to stay under this chapter.
-
-II.203.5 This chapter shall not restrict the prerogative of the meeting Chair to remove any attendee interfering with the conduct of business.
-
-II.203.6 Executive entities considering applications or conducting interviews may meet in executive session for the duration of such consideration.
-
-II.203.7 Meetings of the Student Court, including hearings, shall be open to the public, however, the Justices may deliberate a decision in private.
-
-II.203.8 All meetings of bodies with shared decision­making authority, the Executive Cabinet, and the Councils of the NCSA must take place on the campus of New College of Florida.
-
-##### Chapter 204 Towne Meeting Confirmation
-
-II.204.1 All appointments, requiring Towne Meeting confirmation, by the NCSA President(s) shall be brought up for consideration at the first possible Towne Meeting. Such appointments shall not be effective until approval by majority vote of the Towne Meeting.
-
-II.204.2 In the interim between appointment and confirmation, the outgoing official shall train and inform the incoming official.
-
-II.204.3 Pursuant to V.6 of the NCSA Constitution, an outgoing appointed officials shall continue to serve until their successors are confirmed by the Towne Meeting, unless they resign, are terminated by the NCSA President(s), or are removed by some other means.
-
-II.204.4 The President(s) shall ensure the completion of all duties of any vacant appointed position.
-
-##### Chapter 205 Installation of Officers
-
-II.205.1 Time of Installation:
-II.205.1.1 Officials elected in the early fall elections shall take office twenty­four (24) hours after the certification and announcement of the results of the election.
-
-II.205.1.2 Officials elected in the late fall elections shall take office January 1​.
-
-II.205.1.3 Officials elected in the spring elections shall take office July 1​.
-
-II.205.1.4 Officials elected in a special election shall take office twenty­-four (24) hours after the certification and announcement of the results of the election.
-
-II.205.1.5 Appointed officials requiring confirmation shall take office immediately following Towne Meeting confirmation.
-
-II.205.1.6 Appointed officials not requiring confirmation shall take office immediately upon appointment.
-
-II.205.2 No official shall be forced to take any oath in order to take office.
-
-#### Chapter 206 Seal
-
-II.206.1 The Official Seal of the NCSA shall be a seal.
-
-### TITLE III
-
-##### THE LEGISLATIVE BRANCH
+\##### THE LEGISLATIVE BRANCH
 
 #### Chapter 300 Structure of the Legislative Branch
 
@@ -172,28 +46,29 @@ III.301.8 Quorum for all Towne Meetings shall consist of fifty (50) members, not
 
 #### Chapter 302 Organization of the Student Allocations Committee
 
-###### III.302.1 Members
+III.302.1 Members
 
 III.302.1.1 All positions on the Student Allocations Committee (SAC) shall be considered exclusionary.
 
 III.302.1.2 Four (4) members of the SAC shall also serve as full voting members of the Council of Student Life.
 
-###### III.302.2 Officers
+III.302.2 Officers
 
 III.302.2.1 At the first meeting of each semester following the general election, the SAC shall elect, by majority vote, a Chair and a Secretary.
 
 III.302.2.2 The SAC Chair shall have the following duties:
 
-1. preside and preserve order at all meetings of the SAC;
-    * hello
-    * bye
-2. monitor the status of the SAC Allocation Fund and of all active allocations;
-    1. h1
-    2. h2
-3. sign all duly­passed allocations of the SAC;
-4. represent the SAC at all relevant occasions;
-5. attend all meetings of the Executive Cabinet as a non­voting member; and,
-6. carry out any other duties specified in the NCSA Constitution or this Great Book.
+III.302.2.2.1. preside and preserve order at all meetings of the SAC;
+
+III.302.2.2.2. monitor the status of the SAC Allocation Fund and of all active allocations;
+
+III.302.2.2.3. sign all duly­passed allocations of the SAC;
+
+III.302.2.2.4. represent the SAC at all relevant occasions;
+
+III.302.2.2.5. attend all meetings of the Executive Cabinet as a non­voting member; and,
+
+III.302.2.2.6. carry out any other duties specified in the NCSA Constitution or this Great Book.
 
 III.302.2.3 The SAC Secretary shall have the following duties:
 
@@ -207,7 +82,7 @@ D. coordinate communication among the SAC members; and,
 
 E. carry out any other duties specified in the NCSA Constitution or this Great Book.
 
-###### III.302.3 Procedure
+III.302.3 Procedure
 
 III.302.3.1 All motions shall require a majority vote for passage, except where provided elsewhere in this Great Book or in the Constitution.
 
@@ -313,7 +188,7 @@ III.305.1.1 Bills amending this Great Book, amending the Rules and Procedures of
 
 III.305.1.2 Bills that do none of the above, hereafter referred to as resolutions.
 
-###### III.305.2 Financial Acts
+III.305.2 Financial Acts
 
 III.305.2.1 Acts amending any part of this Great Book pertaining to the SAC, the budget, Title VI, or any other regulation that could affect the spending of NCSA monies shall be considered financial acts.
 
@@ -321,23 +196,27 @@ III.305.2.2 No act placing an issue on the ballot shall ever be designated as fi
 
 III.305.2.3 All financial acts must be approved by the SAC prior to being put to vote at the Towne Meeting.
 
-###### III.305.3 Bill Numbering
+III.305.3 Bill Numbering
 
 III.305.3.1 Each bill shall be numbered upon its receipt by the Speaker with the prefix “TM” and an (f), designating the fall term, or an (s) designating the spring term, followed by the last two digits of of the calendar year, followed by a number indicating the bill's ￼order of proposal and an “A,” indicating an act, or an “R,” designating a resolution.
 
-###### III.305.4 Bill Formatting
+III.305.4 Bill Formatting
 
 III.305.4.1 Each bill passed by the Towne Meeting shall be formatted by the Executive Secretary to include
 
-1. the contents of the bill;
-2. the name of the bill's sponsor;
-3. the bill's number;
-4. a signature line for the Speaker, the Executive Secretary, and, if a financial bill, the SAC Chair; and,
-5. the NCSA Seal.
+A. the contents of the bill;
+
+B. the name of the bill's sponsor;
+
+C. the bill's number;
+
+D. a signature line for the Speaker, the Executive Secretary, and, if a financial bill, the SAC Chair; and,
+
+E. the NCSA Seal.
 
 #### Chapter 306 Approval of Legislation
 
-###### III.306.1 Pre-­Consideration Procedures
+III.306.1 Pre-­Consideration Procedures
 
 III.306.1.1 Any student wishing to submit a bill for Towne Meeting consideration must submit a motion to the Speaker of the Towne Meeting by midnight of two days before the Towne Meeting (Monday for regular meetings).
 
@@ -347,38 +226,38 @@ III.306.1.3 The Speaker shall give each bill a number and a designation under 30
 
 III.306.1.4 The Speaker of the Towne Meeting shall determine if a bill is financial under 305.2. If the SAC Chair objects to the Speaker's designation, the Chief Justice of the Student Court shall decide.
 
-###### III.306.2 Approval by the SAC
+III.306.2 Approval by the SAC
 
 III.306.2.1 If a bill has been designated as financial under 305.2, the SAC must approve it by majority vote.
 
 III.306.2.2 If the SAC rejects the bill, the bill shall be considered dead. The bill's re­submit the bill, taking into account any objections of the SAC.
 
-###### III.306.3 Approval by the Towne Meeting
+III.306.3 Approval by the Towne Meeting
 
-III.306.3.1 After all of the previous procedures have been completed, the Speaker shall submit a copy of all bills to be raised at the Towne Meeting to the Student Body (via the [STUDENTS] email list) no later than twenty­four (24) hours prior to the Towne Meeting.
+III.306.3.1 After all of the previous procedures have been completed, the Speaker shall submit a copy of all bills to be raised at the Towne Meeting to the Student Body (via the \[STUDENTS\] email list) no later than twenty­four (24) hours prior to the Towne Meeting.
 
 III.306.3.2 Each bill shall be allowed at least ten (10) minutes of debate; however, time allowing, the Speaker may permit debate to continue longer in a manner consistent with the Towne Meeting Rules and Procedures.
 
 III.306.3.3 Minor amendments, not changing the basic purpose of a bill may be considered at the discretion of the Speaker.
 III.306.3.4 All bills require a majority vote to pass. Voting procedures shall be outlined in the Towne Meeting Rules and Procedures.
 
-###### III.306.4 Approval by the college
+III.306.4 Approval by the college
 
 III.306.4.1 Bills amending this Great Book, upon passage by the Towne Meeting, must be forwarded by the Speaker to the relevant college administrators for approval by the college Board of Trustees or its delegates.
 
 III.306.4.2 The administration is expected to respond within a reasonable amount of time and give reasoning for any veto.
 
-###### III.306.5 Exceptions to This Chapter
+III.306.5 Exceptions to This Chapter
 
 III.306.5.1 Resolutions (as defined by 305.1.2), may be proposed at the Towne Meeting by submitting a proposal to the Speaker, if time remains following the completion of the agenda. Such resolutions shall receive a number only if passed. Upon passage, such resolutions shall be handled in the same manner as any other bill.
 
-###### III.306.6 Post-­Passage Procedures
+III.306.6 Post-­Passage Procedures
 
 III.306.6.1 Once a bill has been fully passed, the Speaker shall forward to the bill to the Executive Secretary for formatting under 305.4, and the Speaker, Executive Secretary, and, if a financial bill, the SAC Chair shall sign and date the bill, and indicate all votes on the bill. None of the three may “veto” a duly­passed bill by refusing to sign it.
 
 III.306.6.2 Bills approved by the college shall include a statement attesting to such approval.
 
-###### Chapter 307 Legislative Records
+##### Chapter 307 Legislative Records
 
 III.307.1 The Speaker of the Towne Meeting shall be responsible for ensuring the accuracy and compilation of all records pertaining to the Towne Meeting, including but not limited to minutes of the Towne Meeting and its committees, attendance records, and records of passed legislation.
 
